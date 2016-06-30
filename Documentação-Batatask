@@ -1,0 +1,13 @@
+Batatask
+================================================================================
+Grupo: Sabrina Marinho, Caio Lopes, Edgard Alexandre, Pedro Barbosa
+================================================================================
+Conceito: O Batatask é um gerenciador de tarefas simples e minimalista que possui o intuito de ser um auxilio móvel no dia-a-dia de seu usuário. O mesmo apresenta um sistema de tempo limite e índice de dificuldade para tais tarefas com a intenção de motivar as pessoas dispostas a usar o mesmo para completar suas tarefas rotineiras e cansativas de um modo intuitivo e diferente do usual. 
+================================================================================
+Funções: 
+	-Adicionar, Editar e Remover Tarefas; 
+	-Alterar e Editar Data de Entrega e Tempo Limite de Realização; 
+	-Inserir uma Dificuldade a Tarefa Desejada; 
+	-Exibir as Tarefas Inclusas; 
+	-Enviar email de Confirmação e de Troca de Senha; 
+	-Login e Cadastro; 
